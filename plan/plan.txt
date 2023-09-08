@@ -1,0 +1,6 @@
+TO DO LIST             	(durée 1 semaine)
+		React vieuw to do list (django vieu js dokker)
+BLOG                   	(durée 1 semaine)
+		Blog dir personnel blog fih log in ou fih la list des blog et kifesh tkhdem blog
+		Django et post gresse dokker le precedent
+Clone site web       	(durée 1 semaine)

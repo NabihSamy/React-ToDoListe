@@ -1,0 +1,33 @@
+Jour 1 : Configuration de l'environnement
+
+    Installez Node.js et npm si ce n'est pas déjà fait.
+    Créez un nouveau projet React en utilisant Create React App en exécutant la commande : npx create-react-app todo-list.
+    Accédez au répertoire du projet en utilisant cd todo-list.
+    Lancez l'application en exécutant npm start pour vous assurer que tout fonctionne correctement.
+Jour 2 : Création des composants principaux
+
+    Créez les composants de base de votre application : App.js, TaskList.js, Task.js, etc.
+    Configurez la structure de base de votre application React en utilisant des composants simples.
+Jour 3 : Création de la liste de tâches
+
+    Dans le composant TaskList, créez un état (state) pour stocker la liste des tâches.
+    Créez une fonction pour ajouter des tâches à la liste.
+    Affichez la liste des tâches en utilisant la fonction map.
+Jour 4 : Ajout de fonctionnalités de base
+
+    Ajoutez la possibilité de marquer une tâche comme terminée en utilisant un bouton de coche.
+    Ajoutez la possibilité de supprimer une tâche de la liste.
+    Stylez votre application avec du CSS basique pour la rendre plus attrayante.
+Jour 5 : Gestion de l'état global
+
+    Installez et utilisez le contexte (React Context) pour gérer l'état global de l'application.
+    Transférez la gestion de la liste des tâches et des fonctions associées vers le contexte.
+Jour 6 : Stockage local
+
+    Utilisez le stockage local (localStorage) pour sauvegarder la liste des tâches de l'utilisateur même après la fermeture de l'application.
+    Créez des fonctions pour sauvegarder et charger la liste depuis le stockage local.
+Jour 7 : Tests et améliorations
+
+    Effectuez des tests pour vous assurer que votre application fonctionne correctement.
+    Ajoutez des fonctionnalités supplémentaires si vous le souhaitez, telles que la modification des tâches ou des filtres de tri.
+    Améliorez le style de votre application pour la rendre plus professionnelle.
