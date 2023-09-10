@@ -10,7 +10,7 @@ function App() {
     return (
     <div>
        <img src = {Logo} alt='logo'/>
-      <Banner />
+      <task name="nabih" description="fais du sport" />
       <ShoppingList />
 
     </div>
