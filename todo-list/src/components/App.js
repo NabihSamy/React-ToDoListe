@@ -8,9 +8,11 @@ import PlantItem
 function App() {
     return (
     <div>
+       <img src = {Logo} alt='logo'/>
+
       <Banner />
-      <ShoppingList />
-  
+      <Cart />
+
     </div>
     )
 }
