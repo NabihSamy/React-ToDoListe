@@ -1,0 +1,17 @@
+.logo
+{
+    width: 70px;
+}
+.title
+{
+    color: #5790FF;
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+.header
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

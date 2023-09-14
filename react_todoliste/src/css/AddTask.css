@@ -1,0 +1,36 @@
+.addTask
+{   
+    padding-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.addButton
+{
+    background-color: #5790ff;
+    border-radius: 20%;
+    margin-left: 40px;
+
+}
+.calandrier
+{
+    border: none;
+    width: 20px;
+    align-items: center;
+    position: absolute;
+
+    
+}
+.textAddTask
+{
+    border: none;
+    color: grey;
+    width: 70%;
+    height: 50%;
+}
