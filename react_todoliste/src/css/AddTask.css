@@ -21,6 +21,7 @@
 .calandrier
 {
     border: none;
+    font-size: 30px;
     width: 20px;
     align-items: center;
     position: absolute;

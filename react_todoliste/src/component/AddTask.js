@@ -6,7 +6,9 @@ function AddTask (){
     return (
         <div className='addTask'>
             <input type="text"  className="textAddTask"  placeholder="Add new..."    />
-            <img src={calandrier}  className="calandrier" onClick={} />
+       
+            <input type="date" className="calandrier"  />
+            
             <button className="addButton">
                 ADD
             </button>
@@ -17,13 +19,9 @@ export default AddTask
 
 
 function afficherCalendrier() {
-    const calendrierContainer = document.getElementById("calendrierContainer");
-
-    // Afficher ou masquer le calendrier en fonction de son état actuel
-    if (calendrierContainer.style.display === "block") {
-        calendrierContainer.style.display = "none"; // Masquer le calendrier
-    } else {
-        calendrierContainer.style.display = "block"; // Afficher le calendrier
+    const datePickerInput = document.getElementById('datePicker');
+    if (datePickerInput) {
+        datePickerInput.click(); // Simuler un clic sur le champ de saisie de date
     }
 }
 
